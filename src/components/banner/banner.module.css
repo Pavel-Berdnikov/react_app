@@ -1,0 +1,70 @@
+.banner_section{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    margin: 50px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.banner{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    justify-items: end;
+    align-items: center;
+    background-image: url("/public/img/resize_1024_590_true_crop_1024_590_0_0_q90_208572_6414e84f1a.jpeg");
+    background-size: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border-radius: 30px;
+}
+
+.text_banner{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text_banner span{
+    color: #be2525;
+}
+
+.banner1{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    justify-items: end;
+    align-items: center;
+    background-image: url("/public/img/Infinite-Screen--dynamic-experience1.jpg");
+    background-size: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border-radius: 30px;
+}
+
+.banner_btn{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.2s ease-out;
+}
+
+.banner_btn:hover{
+    box-shadow: 5px 5px 5px 0px black;
+}
+
+.banner_btn:active{
+    background-color: white;
+    color: black;
+}

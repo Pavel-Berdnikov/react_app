@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "myId": 1,
+      "title": "TV_1",
+      "description": "Короткое описание продукта",
+      "price": 57999,
+      "img": "/img/tv_1.png"
+    },
+    {
+      "id": 2,
+      "myId": 2,
+      "title": "TV_2",
+      "description": "Короткое описание продукта",
+      "price": 61999,
+      "img": "/img/tv_2.jpeg"
+    },
+    {
+      "id": 3,
+      "myId": 3,
+      "title": "TV_3",
+      "description": "Короткое описание продукта",
+      "price": 57999,
+      "img": "/img/tv_1.png"
+    },
+    {
+      "id": 4,
+      "myId": 4,
+      "title": "TV_4",
+      "description": "Короткое описание продукта",
+      "price": 61999,
+      "img": "/img/tv_2.jpeg"
+    },
+    {
+      "id": 5,
+      "myId": 5,
+      "title": "TV_5",
+      "description": "Короткое описание продукта",
+      "price": 57999,
+      "img": "/img/tv_1.png "
+    },
+    {
+      "id": 6,
+      "myId": 6,
+      "title": "TV_6",
+      "description": "Короткое описание продукта",
+      "price": 61999,
+      "img": "/img/tv_2.jpeg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "myId": 4,
+      "title": "TV_4",
+      "description": "Короткое описание продукта",
+      "price": 61999,
+      "img": "/img/tv_2.jpeg"
+    }
+  ],
+  "favorites": []
+}
