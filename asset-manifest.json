@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitreact_app/static/css/main.dbc4407d.css",
+    "main.js": "/gitreact_app/static/js/main.b1c5997d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gitreact_app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/tv_3.jpg": "/gitreact_app/static/media/tv_3.6c633c625b07024f9639.jpg",
+    "static/media/tv_4.jpeg": "/gitreact_app/static/media/tv_4.88ff80db1939a12e9226.jpeg",
+    "index.html": "/gitreact_app/index.html",
+    "main.dbc4407d.css.map": "/gitreact_app/static/css/main.dbc4407d.css.map",
+    "main.b1c5997d.js.map": "/gitreact_app/static/js/main.b1c5997d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gitreact_app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc4407d.css",
+    "static/js/main.b1c5997d.js"
+  ]
+}
